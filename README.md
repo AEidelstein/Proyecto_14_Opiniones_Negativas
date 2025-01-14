@@ -7,7 +7,7 @@ SPA: Film Junky Union, una nueva comunidad vanguardista para los aficionados de 
 
 EN: Film Junky Union, a new cutting-edge community for fans of classic films, is developing a system for filtering and categorising film reviews. Your goal is to train a model to detect negative reviews automatically. To achieve this, you will use a dataset of tagged IMDB movie reviews to build a model that classifies reviews as positive and negative. This should reach an F1 value of at least 0.85.
 
-## Instrucciones del proyecto
+## Instrucciones del proyecto / Project instructions
 
    1. Carga los datos.
    2. Preprocesa los datos, si es necesario.
